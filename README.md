@@ -30,7 +30,7 @@ Apidog is an **all-in-one API platform** that combines **API documentation, API 
 
 - ✅ **Keywords**: Swagger alternative, API testing tool, API documentation tool, all-in-one API platform  
 
----
+
 
 #### [**Redoc**](https://redocly.com/) – **Open Source Swagger Alternative for API Docs**  
 
@@ -39,7 +39,7 @@ Redoc is a **popular open-source Swagger alternative** used to generate **beauti
 
 - ✅ **Keywords**: Swagger docs alternative, OpenAPI documentation, API reference tool  
 
----
+
 
 #### [**Mintlify**](https://mintlify.com/) – **Modern API Documentation Tool**  
 
@@ -48,7 +48,7 @@ Mintlify focuses on **developer experience (DX)** with a clean, minimal, and fas
 
 - ✅ **Keywords**: Swagger alternative, API documentation, developer experience tool  
 
----
+
 
 #### [**Document360**](https://document360.com/) – **Knowledge Base + API Documentation**  
 
@@ -57,7 +57,7 @@ Document360 is a **knowledge base platform** that integrates **API documentation
 
 - ✅ **Keywords**: Swagger alternative, enterprise API docs, knowledge base for developers  
 
----
+
 
 ### 🔹 API Client Alternatives
 
@@ -68,7 +68,7 @@ Insomnia is an **open-source API client** that supports REST, GraphQL, and gRPC.
 
 - ✅ **Keywords**: Swagger alternative, API client, API testing tool, REST client  
 
----
+
 
 #### [**Hoppscotch**](https://hoppscotch.io/) – **Lightweight Swagger Alternative**  
 
@@ -77,7 +77,7 @@ Hoppscotch is a **fast, web-based API client** built for developers who want **r
 
 - ✅ **Keywords**: Swagger alternative, API client, online API testing tool  
 
----
+
 
 #### [**Bruno**](https://www.usebruno.com/) – **Local-first Swagger Alternative**  
 
@@ -86,7 +86,7 @@ Bruno is an **offline-first API client** that works locally without cloud depend
 
 - ✅ **Keywords**: Swagger alternative, API client, offline API testing  
 
----
+
 
 ### 🔹 API Design & Collaboration
 
@@ -97,7 +97,7 @@ Yaak is a **new Swagger alternative** with a **minimalist UI** and fast testing 
 
 - ✅ **Keywords**: Swagger alternative, API design, modern API client  
 
----
+
 
 #### [**RapidAPI**](https://rapidapi.com/) – **API Marketplace + Testing Platform**  
 
@@ -106,7 +106,7 @@ RapidAPI is a **marketplace of APIs** combined with **testing and collaboration 
 
 - ✅ **Keywords**: Swagger alternative, API marketplace, API testing  
 
----
+
 
 #### [**ReadMe**](https://readme.com/) – **Developer Hubs + API Docs**  
 
@@ -115,7 +115,7 @@ ReadMe is a **developer hub platform** that provides **API documentation, testin
 
 - ✅ **Keywords**: Swagger alternative, developer hub, interactive API docs  
 
----
+
 
 ### 🔹 Legacy / Enterprise Tools
 
@@ -126,7 +126,7 @@ SoapUI is a **legacy API testing tool** that supports **SOAP and REST APIs**. It
 
 - ✅ **Keywords**: Swagger alternative, API testing, SOAP testing tool  
 
----
+
 
 ## 🔹 Bonus: AI-Powered Tools
 
