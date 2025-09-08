@@ -1,44 +1,67 @@
 # 🌟 Awesome Swagger Alternatives
 
-A curated list of the **best Swagger alternatives** for API design, documentation, and testing.  
-Whether you’re looking for modern API clients, collaborative platforms, or developer-friendly open-source tools — this list has you covered.
-
-⚡ Maintained and updated regularly. Contributions welcome!
+Curated list of the best **Swagger alternatives** for API documentation, testing, and collaboration.  
+If Swagger feels too heavy or limited, here are modern tools you can use instead.  
 
 ---
 
-## 🛠️ Swagger Alternatives
+## 🎯 Why Look for Swagger Alternatives?
 
-- **Apidog** – Complete API testing & documentation platform with AI-powered workflows
-- **Insomnia** – REST & GraphQL client with plugin ecosystem
-- **Hoppscotch** – Lightweight, open-source API client (browser & desktop)
-- **Bruno** – Offline-first API client built for developers
-- **Redoc** – Beautiful, customizable API documentation generator
-- **Yaak** – Minimalist, open-source API client
-- **RapidAPI** – API hub with marketplace and testing features
-- **SoapUI** – Industry-standard testing tool for SOAP & REST APIs
-- **Document360** – Knowledge base platform with API doc support
-- **Mintlify** – AI-powered API documentation generator
-- **Ani Code** – Open Source Claude Code Alternative for Better API Testing (anime-coded AI assistant with QA automation & API exploration)
+- Swagger can feel heavy for small projects  
+- Some advanced features are locked behind paid plans  
+- Limited collaboration in free tiers  
+- Developers may prefer lightweight or modern UI alternatives  
 
 ---
 
-## 🔑 Why Explore Swagger Alternatives?
+## 🚀 Swagger Alternatives
 
-Swagger is popular, but not always the best fit.  
-Depending on your needs, you might want:
-- Better **API testing workflows**
-- Cleaner or more customizable **documentation**
-- Lightweight **open-source clients**
-- Or modern platforms with **AI-powered features** (like Ani Code & Apidog)
+### 🔹 API Documentation & Testing Tools
+- [**Apidog**](https://apidog.com/?utm_source=github&utm_medium=awesome-swagger-alternatives) – Unified platform for API docs, testing, and mocking. Great all-in-one Swagger alternative.  
+- [**Redoc**](https://redocly.com/) – Open-source API documentation generator for beautiful, customizable docs.  
+- [**Mintlify**](https://mintlify.com/) – Developer-focused API documentation with modern UI and DX.  
+- [**Document360**](https://document360.com/) – Knowledge base + API documentation platform for enterprises.  
+
+### 🔹 API Client Alternatives
+- [**Insomnia**](https://insomnia.rest/) – Open source API client for REST, GraphQL, and gRPC.  
+- [**Hoppscotch**](https://hoppscotch.io/) – Lightweight, web-based API client. Fast and collaborative.  
+- [**Bruno**](https://www.usebruno.com/) – Local-first API client, works offline, very fast.  
+
+### 🔹 API Design & Collaboration
+- [**Yaak**](https://yaak.app/) – Modern lightweight API client with elegant UI.  
+- [**RapidAPI**](https://rapidapi.com/) – API marketplace and testing hub.  
+- [**ReadMe**](https://readme.com/) – Collaborative API documentation and developer hub.  
+
+### 🔹 Legacy / Enterprise Tools
+- [**SoapUI**](https://www.soapui.org/) – Powerful testing tool for SOAP and REST APIs.  
 
 ---
 
-## 🤝 Contributing
+## 🧪 Example Use Cases
 
-Found another great Swagger alternative?  
-Open a PR or submit an issue — contributions are always welcome!
+- **Lightweight testing** → Hoppscotch, Bruno  
+- **Rich API documentation** → Redoc, Mintlify, Document360  
+- **All-in-one workflow** → Apidog, Insomnia  
+- **Legacy SOAP integration** → SoapUI  
 
 ---
 
-⭐ If this list helps you, don’t forget to **star the repo**!
+## 🔹 Bonus: AI-Powered Tools
+
+- [**Ani Code**](https://github.com/hervekom37/Ani_Code) – Anime-inspired open-source AI coding assistant.  
+  Works hand-in-hand with [Apidog](https://apidog.com/?utm_source=github&utm_medium=awesome-swagger-alternatives) to **auto-generate API tests, scan for bugs, and persist agent memory**.  
+  While not a direct Swagger alternative, it adds **AI-powered testing and workflow automation** to your API projects.  
+
+---
+
+## 🤝 Contribution
+
+Want to suggest another Swagger alternative? Open a PR and contribute to the list 🚀  
+
+---
+
+<div align="center">
+
+⭐ If this list was useful, give it a star and share it with other developers!  
+
+</div>
