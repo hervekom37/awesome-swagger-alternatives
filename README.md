@@ -20,8 +20,10 @@ If Swagger feels too heavy, outdated, or limited, here’s a complete list of **
 
 ### 🔹 API Documentation & Testing Tools
 
-#### [![Apidog](https://apidog.com/images/logo.svg)](https://apidog.com/?utm_source=github&utm_medium=awesome-swagger-alternatives)  
-[**Apidog**](https://apidog.com/?utm_source=github&utm_medium=awesome-swagger-alternatives) – **Swagger Alternative for API Documentation & Testing**  
+#### [![4](https://github.com/user-attachments/assets/780bdffb-9252-48ce-8bb3-5881b5e923ea)](https://apidog.com/?utm_source=github&utm_medium=awesome-swagger-alternatives)  
+[**Apidog**](https://apidog.com/?utm_source=github&utm_medium=awesome-swagger-alternatives)
+
+– **Swagger Alternative for API Documentation & Testing**  
 
 - 📝 **Description**:  
 Apidog is an **all-in-one API platform** that combines **API documentation, API testing, mocking, and debugging** in a single tool. Unlike Swagger, which is primarily focused on docs, Apidog gives you a **complete workflow** from design → test → mock → share.  
@@ -132,7 +134,7 @@ SoapUI is a **legacy API testing tool** that supports **SOAP and REST APIs**. It
 
 - 📝 **Description**:  
 Ani Code isn’t a Swagger alternative but a **power-up for your API workflow**.  
-It integrates with [![Apidog](https://apidog.com/images/logo.svg)](https://apidog.com/?utm_source=github&utm_medium=awesome-swagger-alternatives) to:  
+It integrates with [Apidog](https://apidog.com/?utm_source=github&utm_medium=awesome-swagger-alternatives) to:  
   - Auto-generate API test cases  
   - Run QA scans & security checks  
   - Persist project context with `Agent.md` memory  
@@ -143,7 +145,8 @@ It integrates with [![Apidog](https://apidog.com/images/logo.svg)](https://apido
 
 ## 📸 Apidog in Action  
 
-[![Apidog Screenshot](https://apidog.com/images/home-banner.png)](https://apidog.com/?utm_source=github&utm_medium=awesome-swagger-alternatives)  
+[![9](https://github.com/user-attachments/assets/d11b1dc8-8c28-4152-832d-9105e962d88d)
+](https://apidog.com/?utm_source=github&utm_medium=awesome-swagger-alternatives)  
 
 Apidog provides **API documentation, testing, mocking, and debugging** in one platform – a **modern Swagger alternative** that saves time and simplifies your dev workflow.  
 
